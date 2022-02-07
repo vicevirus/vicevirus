@@ -4,6 +4,8 @@ A generalist that is intrigued by all aspects of computer technology and want to
 
 <br>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicevirus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
