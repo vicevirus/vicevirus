@@ -2,6 +2,7 @@
 
 A generalist that is intrigued by all aspects of computer technology and want to learn as much as possible.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicevirus)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
