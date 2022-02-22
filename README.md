@@ -4,7 +4,5 @@ A generalist that is intrigued by all aspects of computer technology.
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicevirus&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
