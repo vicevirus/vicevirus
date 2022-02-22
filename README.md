@@ -17,9 +17,6 @@
 <br/>  
 
 
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/muhammad-firdaus-amran-385425164" target="_blank">
