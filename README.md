@@ -14,7 +14,6 @@
 - ⚡ Fun fact: I began to love computers at a young age. When I was eight years old, I ran a private game server with a website. (Context: Habbo Retro RageZone SWF CFM)  
   
 
-<br/>  
 
 
 ## Connect with me  
@@ -22,9 +21,7 @@
 <a href="https://linkedin.com/in/muhammad-firdaus-amran-385425164" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/vicevirus" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://stackoverflow.com/users/8273031" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
