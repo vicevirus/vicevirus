@@ -8,7 +8,7 @@
 - 🌱 I can write working code, but writing a clean and scalable code? Unfortunately, not yet. 😢  
   
 
-- ❓ Ask me anything about computer network, hardware, cybersecurity and programming in general.  
+- ❓ Ask me anything about computer network, hardware, cybersecurity and programming.
   
 
 - ⚡ Fun fact: I began to love exploring about computers at a young age. It all started when I was eight years old. I ran a private game server with a website. (Context: Habbo Retro RageZone SWF CFM)  
