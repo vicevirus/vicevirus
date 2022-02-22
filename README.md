@@ -5,7 +5,7 @@
 - 🔭 Some may label me a generalist, but it's simply because I enjoy learning new things.  
   
 
-- 🌱 I can write working code, but writing a clean and scalable code? Not yet. 😢  
+- 🌱 I can write working code, but writing a clean and scalable code? Unfortunately, not yet. 😢  
   
 
 - ❓ Ask me anything about computer network, hardware, cybersecurity and programming in general.  
