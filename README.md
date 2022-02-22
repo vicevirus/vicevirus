@@ -11,7 +11,7 @@
 - ❓ Ask me anything about computer network, hardware, cybersecurity and programming in general.  
   
 
-- ⚡ Fun fact: I began to love computer technologies at a young age. When I was eight years old, I ran a private game server with a website. (Context: Habbo Retro RageZone SWF CFM)  
+- ⚡ Fun fact: I began to love exploring about computers at a young age. When I was eight years old, I ran a private game server with a website. (Context: Habbo Retro RageZone SWF CFM)  
   
 
 
