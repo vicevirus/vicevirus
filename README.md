@@ -8,7 +8,7 @@
 - 🍝 Still writes spaghetti code. 😢  
   
 
-- ❓ Ask me anything about computer network, hardware, cybersecurity and programming.
+- ❓ Ask me anything about computer network, hardware, cybersecurity and programming. Not that I could really answer everything but I love discussing..
   
 
 - ⚡ Fun fact: I began to love exploring about computers at a young age. It all started when I was eight years old. I ran a private game server with a website. (Context: Habbo Retro RageZone SWF CFM)  
