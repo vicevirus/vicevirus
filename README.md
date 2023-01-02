@@ -8,7 +8,7 @@
 - 🍝 Still writes spaghetti code. 😢  
   
 
-- ❓ Ask me anything about computer network, hardware, cybersecurity and programming. Not that I could really answer everything but I love discussing..
+- ❓ Ask me anything about computer network, hardware, cybersecurity and programming. Although I may not have all the answers, I am happy to have conversations and discuss various topics about computers!
   
 
 
